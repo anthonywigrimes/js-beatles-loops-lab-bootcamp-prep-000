@@ -15,4 +15,10 @@ function iLoveTheBeatles(number) {
     return newArray;
 }
 
-function 
+function johnLennonFacts(arrFacts) {
+
+    while (true) {
+
+    }
+    return arrFacts;
+}
